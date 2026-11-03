@@ -1,0 +1,6 @@
+{
+  "name": "PaySmart AI",
+  "description": "AI-Powered Smart Payment and Financial Management Platform integrating PayPal Sandbox and Google Gemini for automated financial intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
